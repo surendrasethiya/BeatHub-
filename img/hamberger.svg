@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 100 80" fill="none">
+  <!-- First Line -->
+  <rect x="10" y="20" width="80" height="10" rx="5" fill="#000"/>
+
+  <!-- Second Line -->
+  <rect x="10" y="40" width="80" height="10" rx="5" fill="#000"/>
+
+  <!-- Third Line -->
+  <rect x="10" y="60" width="80" height="10" rx="5" fill="#000"/>
+</svg>
